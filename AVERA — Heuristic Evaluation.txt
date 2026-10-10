@@ -1,0 +1,90 @@
+AVERA — Heuristic Evaluation
+
+
+1. Introduction
+
+Heuristic evaluation is a usability inspection method used to identify potential usability problems in a user interface by evaluating it against established usability principles.
+The AVERA women's clothing e-commerce website is designed to provide a clean, elegant, and user-friendly shopping experience for young, fashion-conscious women, particularly college students and working professionals. The evaluation focuses on navigation, product discovery, product information, shopping cart, checkout, payment, and account management.
+
+
+2. Evaluation based on Nielsen’s 10 Usability Heuristics
+
+
+1. Visibility of System Status
+
+AVERA should clearly communicate the current state of user actions, such as adding products to the bag, applying filters, placing orders, and tracking deliveries.
+Recommendation:
+Display confirmation messages, loading indicators, order status labels, and estimated delivery dates.
+
+
+
+2. Match Between the System and the Real World
+
+The interface should use familiar shopping terms such as Categories, New Arrivals, Wishlist, Shopping Bag, and My Orders.
+Recommendation:
+Use simple language, recognizable icons, familiar currency formatting, and delivery dates that users can easily understand.
+
+
+
+3. User Control and Freedom
+
+Users should be able to change their selections, remove unwanted items, adjust quantities, and return to previous steps without losing their progress.
+Recommendation:
+Provide clear Back, Remove, Edit, Reset Filters, and Continue Shopping actions.
+
+
+
+4. Consistency and Standards
+
+AVERA should maintain consistent colors, typography, button styles, icons, spacing, and navigation throughout all screens.
+Recommendation:
+Use the same mauve primary buttons, beige backgrounds, pista-green accents, and familiar shopping icons across the website.
+
+
+
+
+5. Error Prevention
+
+The design should help users avoid mistakes, particularly when selecting clothing sizes, entering delivery information, or placing orders.
+Recommendation:
+Validate address and payment fields, require a size selection when necessary, and show an order summary before the final purchase.
+
+
+
+6. Recognition Rather Than Recall
+
+Users should not need to remember product details, prices, sizes, or previous selections while shopping.
+Recommendation:
+Display product images, selected sizes, saved wishlist items, recently viewed products, and cart contents where relevant.
+
+
+
+7. Flexibility and Efficiency of Use
+
+AVERA should support both first-time shoppers and frequent customers by making product discovery and purchasing efficient.
+Recommendation:
+Provide search, sorting, category navigation, reusable saved addresses, wishlist access, and quick add-to-bag actions.
+
+
+
+8. Aesthetic and Minimalist Design
+
+The interface should look premium without overwhelming users with excessive text, decorations, or competing elements.
+Recommendation:
+Maintain the mauve, beige, and pista palette, use adequate whitespace, prioritize product photography, and keep promotional content secondary to shopping tasks.
+
+
+
+9. Help Users Recognize, Diagnose, and Recover from Errors
+
+When an error occurs, users should understand what went wrong and how to fix it.
+Recommendation:
+Provide clear messages for invalid addresses, unsuccessful payments, unavailable sizes, and out-of-stock products, along with actionable recovery options.
+
+
+
+10. Help and Documentation
+
+Users should have access to useful guidance when they need assistance with sizing, payments, delivery, returns, or refunds.
+Recommendation:
+Include size guides, fit descriptions, FAQs, return policies, delivery information, and accessible customer support.
